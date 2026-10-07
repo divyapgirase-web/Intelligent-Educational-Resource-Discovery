@@ -1,0 +1,9 @@
+title,category,description,url
+Python Fundamentals,Programming,Learn Python programming fundamentals and basic syntax,https://docs.python.org/3/tutorial/
+Machine Learning Basics,Artificial Intelligence,Introduction to machine learning concepts and algorithms,https://developers.google.com/machine-learning/intro
+Data Analysis with Pandas,Data Science,Learn data analysis using Python Pandas library,https://pandas.pydata.org/docs/getting_started/intro_tutorials/
+SQL Tutorial,Database,Learn SQL queries and database fundamentals,https://www.w3schools.com/sql/
+HTML Tutorial,Web Development,Learn HTML structure and web page development,https://developer.mozilla.org/en-US/docs/Web/HTML
+CSS Tutorial,Web Development,Learn CSS styling and responsive web design,https://developer.mozilla.org/en-US/docs/Web/CSS
+Git and GitHub,Tools,Learn Git version control and GitHub collaboration,https://docs.github.com/en/get-started/start-your-journey
+Cloud Computing Basics,Cloud Computing,Introduction to cloud computing concepts and services,https://aws.amazon.com/what-is-cloud-computing/
